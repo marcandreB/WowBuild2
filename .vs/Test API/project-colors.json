@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "41720f52-e0f9-4262-964e-634e6c1a0639": {
+      "ProjectGuid": "41720f52-e0f9-4262-964e-634e6c1a0639",
+      "DisplayName": "Test API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

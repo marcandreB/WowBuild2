@@ -1,0 +1,30 @@
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\Test API.exe
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\App.config
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\Test API.dll
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\Test API.deps.json
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\Test API.runtimeconfig.json
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\Test API.dll.config
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\Test API.pdb
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\System.Net.Http.Formatting.dll
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\System.Web.Http.dll
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\RestSharp.dll
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\System.Drawing.Common.dll
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\System.Json.dll
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\System.Security.Permissions.dll
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\System.Windows.Extensions.dll
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projet VS\Test API\Test API\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
