@@ -25,11 +25,16 @@ class TokenPriceController
 
             string url = "https://us.api.blizzard.com/data/wow/token/?namespace=dynamic-us";
 
-            HttpResponseMessage response = await ApiCalls.GetApiResponse(bearerToken, url);
-            string responseString = await response.Content.ReadAsStringAsync();
-            var result = getTokenPriceSanitized(responseString);
+            using (var client = new HttpClient())
+            {
+                client.BaseAddress = new Uri(url);
+                client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", bearerToken);
+                HttpResponseMessage response = await client.GetAsync(url);
+                string str = await response.Content.ReadAsStringAsync();
+                var result = getTokenPriceSanitized(str);
 
-            return result;
+                return result;
+            }
         }
         catch (ConfigurationErrorsException)
         {

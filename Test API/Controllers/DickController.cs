@@ -17,7 +17,7 @@ namespace Test_API.Controllers
         [HttpGet(Name = "GetDick")]
         public string Get()
         {
-            return $@"{TokenPriceController.GetTokenPrice()}
+            return $@"{TokenPriceController.GetTokenPrice().Result}
                 " + dick.GetDickString();
         }
 
