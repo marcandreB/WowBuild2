@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yQ0F014zg+pPGvDC4bEDQUoX01qZdcOyxpeoA4xnie8C1nNfq4uxtipyOoyp7sHOrmhDiBpXzpXE3tgS/YWjfw==",
+  "dgSpecHash": "7RUncDU1bKQphx5BLgLjsiT1LpX5wDxH+3M/O02gRV8gqnU7yd8WE24qqflKdsUUO5uKSOZXGViVq49JyjWU2w==",
   "success": true,
-  "projectFilePath": "E:\\Projet VS\\Test API\\Test API\\Test API.csproj",
+  "projectFilePath": "E:\\Projet VS\\WowBuild\\Test API\\Test API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bru\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\Bru\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.7\\microsoft.aspnet.webapi.core.5.2.7.nupkg.sha512",

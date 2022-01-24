@@ -22,6 +22,6 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-string ok = TokenPriceController.GetTokenPrice();
+string ok = await TokenPriceController.GetTokenPrice();
 
 app.Run();

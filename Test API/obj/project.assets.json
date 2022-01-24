@@ -5204,11 +5204,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projet VS\\Test API\\Test API\\Test API.csproj",
+      "projectUniqueName": "E:\\Projet VS\\WowBuild\\Test API\\Test API.csproj",
       "projectName": "Test API",
-      "projectPath": "E:\\Projet VS\\Test API\\Test API\\Test API.csproj",
+      "projectPath": "E:\\Projet VS\\WowBuild\\Test API\\Test API.csproj",
       "packagesPath": "C:\\Users\\Bru\\.nuget\\packages\\",
-      "outputPath": "E:\\Projet VS\\Test API\\Test API\\obj\\",
+      "outputPath": "E:\\Projet VS\\WowBuild\\Test API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual studio\\SDK\\NuGetPackages"
